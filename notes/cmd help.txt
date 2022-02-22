@@ -1,0 +1,46 @@
+--> cmd on bar in any folder will open cmd
+--> cls
+--> tree ==> command to check folder herarchi
+--> help color => to check list of colours and --> color 02 --> to change color 
+--> color 02 --> to change background color 
+--> help prompt ==> to check cmd prompt options --> prompt sufi@hacker$G ==> to change cmd to this name
+--> command /? ==> to see comand help
+--> title hacking bar ==> to change cmd title
+--> attrib +h +r +s folder_name ==> to hide folder so you can't even see by view hide
+--> attribe -h -r -s folder_name ==> to unhide folder
+--> command | clip ==> this will copy your command output to clipboard
+--> help > help.txt ==> to put output of the command in file
+--> F7 ==> to view cmd prompt history
+--> doskey /history ==> show on cmd
+--> wmic product get name ==> to list all programs installed on your computer
+--> Cipher /E ==> it will encrpt all the things presend inside the folder
+--> control + c ==> to abort the curently running command 
+--> drag and drop folder it will auto past complete path
+--> sfc /scannow ==> it will check corrupted will on windows
+--> tasklist ==> to see all running applications
+--> systeminfo ==> to check all system info
+--> shutdown -s -t 3600 ==> to shutdown computer after an hour
+
+
+------> registory editor ->HKEY_CURRENT_USER -> software -> microsoft -> command proccesor -> on right side rightclick New -> string value -> name it Autorun -> right click and modify -> add command this will show on cmd all time ===> don't use recommended
+
+
+--> netsh wlan set hostednetwork mode=allow ssid=sufiwindows key=anypassword ==> to create hotspot on windows
+--> netsh wlan start hostednetwork ==> to start hotspot
+--> netsh wlan stop hostednetwork ==> to stop hotspot
+
+--> net user ==> to see all users
+--> net user sufi newpass ==> to change user password
+
+--> netsh wlan show profile ==> to see list of wifi you are connected with
+--> netsh wlan show profile PTCLwifiname key=clear ==> to see password of that wifi
+
+--> nslookup google.com ==> to check IP
+--> tracert google.com ==> to trach rout path from your computer to website
+--> nestat -an ==> to see connections
+
+Allow remote assistent
+mrt -> to remove virus
+memory dignose
+
+
